@@ -1,3 +1,5 @@
+　<p align="center">![](https://komarev.com/ghpvc/?username=vengefulangel&label=⠀🍷⠀&color=A5324F)</p>
+
 <p align="center">
 	
 <img src="https://media.discordapp.net/attachments/962435406685671455/1483727949890060349/image0.png?ex=69c97c95&is=69c82b15&hm=e5bc439618cc993069c85ee69385df32a47960d08215f1169f3529456021628d&=&format=webp&quality=lossless&width=1408&height=154"/>
